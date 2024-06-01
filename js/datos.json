@@ -1,0 +1,225 @@
+{
+    "producto": [
+        {
+            "id" : 1,
+            "nombre" : "agua cielo 2.5l",
+            "precio": 2.50 ,
+            "stock": 600,
+            "categoria": "bebidas",
+            "descripción": "Mantente hidratado y saludable con agua Cielo.",
+            "marca": "Cielo",
+            "disponibilidad": "si.",
+            "imagen" : "https://plazavea.vteximg.com.br/arquivos/ids/5422974-1000-1000/1046239002.jpg"
+        },
+
+        {
+            "id" : 2,
+            "nombre" : "gaseosa black 500ml",
+            "precio": 1.60 ,
+            "stock": 750,
+            "categoria": "bebidas",
+            "descripción": "Cola diferente, con el toque justo de gas y azúcar que permite refrescarte. Es diferente como TU.",
+            "marca": "ISM",
+            "disponibilidad": "si.",
+            "imagen" : "https://group-ism.com/wp-content/uploads/2023/06/black-b-01.png"
+        },
+        {
+            "id" : 3,
+            "nombre" : "papa lays 150g",
+            "precio": 6.90 ,
+            "stock": 60,
+            "categoria": "frituras",
+            "descripción": "Hechas con un 50 % menos de sodio que la receta original, pero tan crocantes y sabrosas que sin dudas te dejarán una sonrisa en la boca. Papas, aceite vegetal (de girasol, maíz o canola) y sal.",
+            "marca": "pepsico",
+            "disponibilidad": "si.",
+            "imagen" : "https://plazavea.vteximg.com.br/arquivos/ids/28533794-1000-1000/20355479.jpg"
+        },
+        {
+            "id" : 4,
+            "nombre" : "Galletas oreo pack 6",
+            "precio": 1.50 ,
+            "stock": 720,
+            "categoria": "galletas",
+            "descripción": "Se caracterizan por estar constituidas por dos galletas negras circulares unidas por un dulce cremoso blanco en el centro. Las galletas Oreo originales tienen una combinación de crujientes galletas de chocolate y dulce crema de vainilla.",
+            "marca": "Oreo",
+            "disponibilidad": "si.",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQe8uyHPfEXIH8zTR905sO4x4rDfpPcPu_ITgy_iS7g&s"
+        },
+        {
+            "id" : 5,
+            "nombre" : "chocapic 540",
+            "precio": 1.50 ,
+            "stock": 500,
+            "categoria": "cereal",
+            "descripción": "es un cereal sin colorantes, fortificado con vitaminas y minerales , es una fuente de fibra y además con sabor muy chocolatoso.",
+            "marca": "nestle",
+            "disponibilidad": "si.",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoN0B8vElATdWZmNGAOhuINprJ64FiemLnubeePhGqQ&s"
+        },
+        {
+            "id" : 6,
+            "nombre" : "galletas margarita",
+            "precio": 1.00 ,
+            "stock": 300,
+            "categoria": "galletas",
+            "descripción": "Las galletas Margarita son galletas individuales envueltas en cada paquete.",
+            "marca": "nestle",
+            "disponibilidad": "si.",
+            "imagen" : "https://www.tiendaperuonline.com/cdn/shop/products/Margarita-Sayon-279-g-A_947x947.jpg?v=1665247086"
+        },
+        {
+            "id" : 7,
+            "nombre" : "galletas soda field",
+            "precio": 1.00 ,
+            "stock": 500,
+            "categoria": "galletas",
+            "descripción": "Solo tienes que elegir tus productos favoritos, agregarlos a tu carrito, completar tu proceso de compra y ¡listo! Espera tu pedido en la comodidad de tu hogar, o recógelo en la tienda sin hacer colas ni esperar de más.",
+            "marca": "FIELD",
+            "disponibilidad": "si.",
+            "imagen" : "https://www.tienda-peruana.com/2962-tm_thickbox_default/galletas-soda-field.jpg"
+        },
+        {
+            "id" : 8,
+            "nombre" : "galletas field chocosoda",
+            "precio": 1.50 ,
+            "stock": 250,
+            "categoria": "galletas",
+            "descripción": "Las galletas Field de chocolate son galletas peruanas de soda bañadas con sabor a chocolate.",
+            "marca": "FIELD",
+            "disponibilidad": "si.",
+            "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCAl_jud40ej_hKe924CXkDuT-afSGmFS2mp06kGwjvQ&s"
+        },
+        {
+            "id" : 9,
+            "nombre" : "aceite primor 900ml",
+            "precio": 24.10 ,
+            "stock": 250,
+            "categoria": "aceite",
+            "descripción": "El aceite vegetal Primor Premium tiene muchos beneficios para la salud. Entre ellos está el hecho de que es un poderoso aliado para controlar los niveles de colesterol en la sangre, lo contribuye también a la reducción de enfermedades cardíacas y accidentes cerebrovasculares.",
+            "marca": "primor",
+            "disponibilidad": "si.",
+            "imagen" : "https://oechsle.vteximg.com.br/arquivos/ids/1890456-1000-1000/image-7db686787e2c426897ab06f991e87b77.jpg?v=637495395967800000"
+        },
+        {
+            "id" : 10,
+            "nombre" : "helado peziduri 2.2l",
+            "precio": 21.90 ,
+            "stock": 250,
+            "categoria": "helado",
+            "descripción": "Ideal para esos momentos dulces en casa..",
+            "marca": "nestle",
+            "disponibilidad": "si.",
+            "imagen" : "https://tiendanestle.pe/cdn/shop/files/eContent_Tricolor_1.jpg?v=1710879605&width=823"
+        },
+        {
+            "id" : 11,
+            "nombre" : "coca cola 600ml",
+            "precio": 3.00 ,
+            "stock": 250,
+            "categoria": "gaseosa",
+            "descripción": "La Coca-Cola es una bebida azucarada y gaseosa que se vende en más de 200 países y territorios.",
+            "marca": "Coca Cola Company",
+            "disponibilidad": "si.",
+            "imagen" : "https://oechsle.vteximg.com.br/arquivos/ids/1890456-1000-1000/image-7db686787e2c426897ab06f991e87b77.jpg?v=637495395967800000"
+        },
+        {
+            "id" : 12,
+            "nombre" : "pepsi 600ml",
+            "precio": 2.40 ,
+            "stock": 250,
+            "categoria": "gaseosa",
+            "descripción": "Las galletas Field de chocolate son galletas peruanas de soda bañadas con sabor a chocolate.",
+            "marca": "pepsico",
+            "disponibilidad": "si.",
+            "imagen" : "https://oechsle.vteximg.com.br/arquivos/ids/1890456-1000-1000/image-7db686787e2c426897ab06f991e87b77.jpg?v=637495395967800000"
+        },
+        {
+            "id" : 13,
+            "nombre" : "mermelada gloria",
+            "precio": 14.30 ,
+            "stock": 250,
+            "categoria": "mermelada",
+            "descripción": "El Desayuno es el primer alimento del día. Esta primera comida nos aportará en buen porcentaje de energía para iniciar con fuerza nuestras actividades diarias. Por ello plazaVea te ofrece una gran variedad de productos para que puedar preparar Desayunos deliciosos. Si eres un amante del café y no pued faltar en tus mañanas. Puedes preparte algo rápido y sencillo .",
+            "marca": "gloria",
+            "disponibilidad": "si.",
+            "imagen" : "https://plazavea.vteximg.com.br/arquivos/ids/495096-1000-1000/20198345.jpg"
+        },
+        {
+            "id" : 14,
+            "nombre" : "leche gloria en lata",
+            "precio": 4.20 ,
+            "stock": 250,
+            "categoria": "lacteos",
+            "descripción": "Es un producto elaborado a partir de la leche entera de vaca enriquecido con vitaminas A y D.",
+            "marca": "gloria",
+            "disponibilidad": "si.",
+            "imagen" : "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_003842/tienda_003842_9501cf2a208161fb5676292cdea7f70d1c98c590_producto_medium_85.png"
+        },
+        {
+            "id" : 15,
+            "nombre" : "axe",
+            "precio": 10.60 ,
+            "stock": 250,
+            "categoria": "higuiene",
+            "descripción": "Axe es una marca de cuidado personal para hombres que ofrece una línea completa de productos, incluidos desodorantes, antitranspirantes, geles de ducha, productos para el cabello y cuidado de la cara.",
+            "marca": "axe",
+            "disponibilidad": "si.",
+            "imagen" : "https://corporacionliderperu.com/49378-large_default/axe-desodorante-spray-x-150-ml-dark-temptation.jpg"
+        },
+        {
+            "id" : 16,
+            "nombre" : "shampoo dove",
+            "precio": 15.90 ,
+            "stock": 250,
+            "categoria": "higuiene",
+            "descripción": "Uno de los productos básicos para tener una melena hermosa es utilizar un buen Shampo y Acondicionador para dejar tu cabello súper limpio y sedoso.",
+            "marca": "dove",
+            "disponibilidad": "si.",
+            "imagen" : "https://plazavea.vteximg.com.br/arquivos/ids/29058976-1000-1000/20141308.jpg"
+        },
+        {
+            "id" : 17,
+            "nombre" : "nutella frasco 350g",
+            "precio": 31.90 ,
+            "stock": 250,
+            "categoria": "reposteria",
+            "descripción": "Nutella es una marca de crema de cacao y avellana endulzada diarias. Por ello plazaVea te ofrece una gran variedad de productos para que puedar preparar Desayunos deliciosos. Si eres un amante del café y no pued faltar en tus mañanas. Puedes preparte algo rápido y sencillo .",
+            "marca": "nutella",
+            "disponibilidad": "si.",
+            "imagen" : "https://plazavea.vteximg.com.br/arquivos/ids/169247-1000-1000/mantequilla-de-mani-nutella-de-avellanas-350g.jpg"
+        },
+        {
+            "id" : 18,
+            "nombre" : "Galletas RITZ 6 unidades",
+            "precio": 10.60 ,
+            "stock": 250,
+            "categoria": "dulces",
+            "descripción": "Galletas Saladas Ritz Originales con su caracteristico sabor saladas tostaditas en formato de 6 paquetes individuales con 8 galletas cada uno",
+            "marca": "axe.",
+            "disponibilidad": "si.",
+            "imagen" : "https://s7d2.scene7.com/is/image/TottusPE/43113665_1?wid=1500&hei=1500&qlt=70"
+        },
+        {
+            "id" : 19,
+            "nombre" : "pan de molde bimbo 750g",
+            "precio": 13.30 ,
+            "stock": 250,
+            "categoria": "panaderia",
+            "descripción": "Es un pan rico y nutritivo, que cuenta con nutrimentos como calcio, y una mezcla de vitaminas que ayudan a fortalecer el cuerpo humano y a desarrollar el crecimiento infantil.",
+            "marca": "bimbo.",
+            "disponibilidad": "si.",
+            "imagen" : "https://plazavea.vteximg.com.br/arquivos/ids/26503881-1000-1000/20098008.jpg"
+        },
+        {
+            "id" : 20,
+            "nombre" : "frugos naranja caja 1.5L",
+            "precio": 5.50 ,
+            "stock": 250,
+            "categoria": "jugos",
+            "descripción": "Frugos del Valle es una marca de jugos de Coca-Cola que vienen en varios sabores, como durazno y naranja. Las bebidas están hechas con jugo y pulpa de fruta natural y tienen una textura ligera y un sabor refrescante. Además, contienen vitaminas A, C y D, y algunas variedades tienen menos azúcar.",
+            "marca": "Coca Cola Company",
+            "disponibilidad": "si.",
+            "imagen" : "https://corporacionliderperu.com/49378-large_default/axe-desodorante-spray-x-150-ml-dark-temptation.jpg"
+        }
+    ]
+}
